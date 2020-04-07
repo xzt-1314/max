@@ -95,8 +95,8 @@ namespace UnitTest1
 		}
 		TEST_METHOD(TestMethod5)
 		{
-			int n = 7;
-			int a[7] = {-2,11,-4,13,-5,-2};
+			int n = 6;
+			int a[6] = {-2,11,-4,13,-5,-2};
 			int max = 0;
 			int add = 0;
 			for (int i = 0; i < n; i++)
